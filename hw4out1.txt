@@ -1,0 +1,4 @@
+hw4test1.txt   Base  : Energy assignment : 2 1 1 
+hw4test1.txt   Base prob : 0.006
+hw4test1.txt   Bonus : Energy assignment : -1 1 1 
+hw4test1.txt   Bonus prob : 0.009
